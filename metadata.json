@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent Music DAW",
+  "description": "An interactive Digital Audio Workstation (inspired by openDAW) featuring specialized synthesis agents (Thiri.ai & Chandler) creating healing compositions with resonant Web Audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
